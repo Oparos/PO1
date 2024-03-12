@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/PointSmartPtr.h
+iostream
+-
+
+/home/stud2021/1sekowski/Desktop/labC++sem2/lab1/src/PointSmartPtr.cpp
+PointSmartPtr.h
+/home/stud2021/1sekowski/Desktop/labC++sem2/lab1/src/PointSmartPtr.h
+
